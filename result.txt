@@ -1,6 +1,50 @@
-央视频道,#genre#
+中央卫视,#genre#
+CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 
-卫视频道,#genre#
+地方卫视,#genre#
+延边卫视-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+延边卫视（高清）,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 
-港·澳·台,#genre#
+港澳台,#genre#
+民事新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民事新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民事新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民事新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+Ftv 4k,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
+北京,#genre#
+北京新闻频道BTV9,https://live.funhillrm.com/5/sd/live.m3u8
+
+天津,#genre#
+
+上海,#genre#
+上海|东方购物频道,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+上海|金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
+
+黑龙江,#genre#
+哈尔滨|新闻综合频道,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+哈尔滨|生活频道,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨|娱乐频道,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨|影视频道,http://stream.hrbtv.net/yspd/sd/live.m3u8
+
+辽宁,#genre#
+大连|新闻综合频道,http://live.dltv.cn/tcb3IB5/m67txb0.m3u8
+大连|生活频道,http://live.dltv.cn/JzcFkF4/p64Jxc0.m3u8
+大连|电视台文体频道,http://live.dltv.cn/hxT7Fc3/56olxT0.m3u8
+
+江苏,#genre#
+江苏|无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
+江苏|无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
+江苏|无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+江苏|无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
+江苏|无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
+江苏|无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+江苏|如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+江苏|淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8
+江苏|淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
 
